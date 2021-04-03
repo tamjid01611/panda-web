@@ -1,0 +1,218 @@
+.orenge-bg {
+    background-color: #fceae8;
+}
+
+.col-md-7 {
+    padding: 20px 80px;
+}
+
+.col-md-7 h1 {
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.col-md-7 p {
+    color: rgba(0, 0, 0, 0.514);
+    letter-spacing: 1.3px;
+    line-height: 1.6;
+}
+
+.col-md-7 .money {
+    color: #FF136F;
+    font-family: arial;
+    letter-spacing: 1px;
+}
+
+.col-md-7 button.buy-now {
+    background-color: #ff3c73;
+    border: 0;
+    width: 140px;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    font-family: arial;
+    transition: 0.4 s;
+}
+
+.col-md-7 button.buy-now:hover {
+    background-color: #FF136F;
+    border-radius: 8px;
+}
+
+.container {
+    margin-bottom: 60px;
+}
+
+.row {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.bag {
+    width: 280px;
+    height: 81px;
+    background-image: linear-gradient( 360deg, #ff9c35, #ffd019);
+    border-radius: 5px;
+    position: absolute;
+    left: 16%;
+}
+
+.bag h1 {
+    float: left;
+    padding-right: 50px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.bag img {
+    width: 70px;
+    padding-top: 5px;
+}
+
+.wach {
+    width: 280px;
+    height: 81px;
+    background-image: linear-gradient( #ff589b, #ff1365);
+    border-radius: 5px;
+    position: absolute;
+    left: 40%;
+}
+
+.wach h1 {
+    float: left;
+    padding-right: 50px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.wach img {
+    width: 70px;
+    padding-top: 5px;
+}
+
+.shoes {
+    width: 280px;
+    height: 81px;
+    background-image: linear-gradient( 360deg, #4289ff, #07f8c3);
+    border-radius: 5px;
+    position: absolute;
+    left: 63%;
+}
+
+.shoes h1 {
+    float: left;
+    padding-right: 50px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+
+.shoes img {
+    width: 68px;
+    padding-top: 5px;
+}
+
+.card1 {
+    width: 18rem;
+    height: 80vh;
+    float: left;
+    margin-top: 180px;
+    margin-left: 185px;
+}
+
+.card1 img {
+    padding-top: 15px;
+}
+
+.card1 h5 {
+    text-align: center;
+}
+
+.card1 p {
+    text-align: center;
+    color: #000000ab;
+}
+
+.card1 h2 {
+    text-align: center;
+    font-family: arial black;
+    font-size: 2rem;
+}
+
+.card1 a {
+    background-color: black;
+    color: white;
+    padding: 15px 36px;
+    text-decoration: none;
+    margin: auto;
+}
+
+.card1 a:hover {
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+.card1 .link {
+    margin: auto;
+}
+
+.card2 {
+    margin-left: 66px;
+}
+
+.card3 {
+    margin-left: 185px;
+    margin-left: 65px;
+}
+
+.cardb1,
+.cardb2,
+.cardb3 {
+    height: 93vh;
+}
+
+.cardb2 {
+    margin-left: 66px;
+}
+
+.cardb3 {
+    margin-left: 185px;
+    margin-left: 65px;
+}
+
+.lasth1 {
+    margin-top: 1645px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.div {
+    background-color: #FEEAE9;
+    width: 80%;
+    margin: auto;
+    height: 40vh;
+    margin-bottom: 60vh;
+}
+
+.div p {
+    text-align: center;
+}
+
+.div input {
+    width: 290px;
+    height: 40px;
+    position: absolute;
+    left: 33%;
+}
+
+.div button {
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    left: 54%;
+    border: 0;
+    background-color: #f8498f;
+    color: white;
+    font-family: arial;
+}
